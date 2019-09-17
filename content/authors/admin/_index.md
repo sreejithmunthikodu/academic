@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sreejith Munthikodu is a Master of Data Science candidate at the University of British Columbia. Previously he was a MASc student at the University of victoria, where he worked on pattern recognition and real-time pattern prediction task on drviving cycles to support an intelligent energy management strategy for Plug-in Hybrid Electric Vehicles. In his research work, he used Fuzzy C-means clustering algorithm algorithm to perform pattern recognition and Artificial Neural Networks to perform real-time pattern prediction. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He worked as a Machine learning intern at a startup named Hypernose, based on Victoria, British Columbia, Canada.
