@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: MASc in Mechanical Engineering with Specialization in Machine Learning
-    institution: SUniversity of Victoria
+    institution: University of Victoria
     year: 2019
   
 
